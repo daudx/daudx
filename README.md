@@ -74,16 +74,6 @@
   </table>
 </div>
 
----
-
-### 🏆 `contributions.trophy`
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=daudx&theme=onedark&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trophy" />
-</div>
-
----
-
 ### 📊 `system_metrics.log`
 
 <div align="center">
