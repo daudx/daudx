@@ -76,13 +76,33 @@
 
 ---
 
+### 🏆 `contributions.trophy`
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=daudx&theme=onedark&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trophy" />
+</div>
+
+---
+
 ### 📊 `system_metrics.log`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daudx&bg_color=1E1E1E&text_color=ffffff&icon_color=3B82F6&title_color=3B82F6&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" width="48%" alt="Stats" />
-  <img src="https://streak-stats.demolab.com/?user=daudx&bg_color=1E1E1E&hide_border=true&fire=3B82F6&ring=3B82F6&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=3B82F6&sideLabels=ffffff&dates=ffffff" width="48%" alt="Streak" />
+  <a href="https://github.com/daudx">
+    <img src="https://github-readme-stats.vercel.app/api?username=daudx&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=ffffff" width="48%" alt="Dawood's GitHub Stats" />
+  </a>
+  <a href="https://github.com/daudx">
+    <img src="https://streak-stats.demolab.com/?user=daudx&theme=transparent&hide_border=true&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&currStreakNum=ffffff&sideLabels=ffffff&sideNums=ffffff&dates=ffffff" width="48%" alt="Dawood's Streak Stats" />
+  </a>
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daudx&bg_color=1E1E1E&text_color=ffffff&title_color=3B82F6&layout=compact&hide_border=true" width="50%" alt="Top Langs" />
+  <a href="https://github.com/daudx">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daudx&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=ffffff" width="50%" alt="Dawood's Top Languages" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daudx&theme=react-dark&hide_border=true&area=true&color=3B82F6" width="100%" alt="Activity Graph" />
 </div>
 
 ---
