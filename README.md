@@ -1,18 +1,16 @@
-<div style="background-color: #1E1E1E; color: #FFFFFF; padding: 20px; border-radius: 10px;">
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=250&section=header&text=Hi%20👋,%20I'm%20Dawood%20Sajid&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=A%20Skilled%20Frontend%20and%20AI/ML%20Developer%20from%20Pakistan&descAlignY=55" alt="Header Banner" />
-  
+
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=%3E_++Frontend+%26+AI%2FML+Developer;%3E_++Turning+coffee+into+scalable+code;%3E_++Building+AI-integrated+web+applications" alt="Typing SVG" />
   </a>
 
-  <br>
+  <br><br>
 
   <p>
     <a href="https://linkedin.com/in/dawood-sajid-58ab7a2b4"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://github.com/daudx"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub" /></a>
-    <a href="mailto:daudx6192@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" /></a>
+    <a href="mailto:daudx6192@gmail.com"><img src="https://img.shields.io/badge/daudx6192%40gmail.com-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" /></a>
   </p>
 
   <img src="https://komarev.com/ghpvc/?username=daudx&label=Profile%20Views&color=3B82F6&style=flat" alt="Profile Views" />
@@ -39,10 +37,10 @@
 
 <span style="color: #E5C07B;">const</span> <span style="color: #61AFEF;">Dawood</span>: <span style="color: #61AFEF;">Developer</span> = {
   <span style="color: #C678DD;">name</span>: <span style="color: #56B6C2;">"Dawood Sajid"</span>,
-  <span style="color: #C678DD;">location</span>: <span style="color: #56B6C2;">"Pakistan "</span>,
+  <span style="color: #C678DD;">location</span>: <span style="color: #56B6C2;">"Pakistan 🇵🇰"</span>,
   <span style="color: #C678DD;">focus</span>: [
     <span style="color: #56B6C2;">"AI-Integrated Web Applications"</span>,
-    <span style="color: #56B6C2;">"Generative AI & LLMs"</span>,
+    <span style="color: #56B6C2;">"Generative AI &amp; LLMs"</span>,
     <span style="color: #56B6C2;">"RAG (Retrieval-Augmented Generation)"</span>
   ],
   <span style="color: #C678DD;">passions</span>: [
@@ -64,15 +62,17 @@
     <tr>
       <td align="center" width="33%"><b>🚀 Frontend</b></td>
       <td align="center" width="33%"><b>⚙️ Backend</b></td>
-      <td align="center" width="33%"><b>🤖 AI & DevOps</b></td>
+      <td align="center" width="33%"><b>🤖 AI &amp; DevOps</b></td>
     </tr>
     <tr>
       <td align="center"><img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,bootstrap,html,css&perline=4" alt="Frontend" /></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,prisma&perline=3" alt="Backend" /></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,git,github,vercel,vite&perline=4" alt="ML & DevOps" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,git,github,vercel,vite&perline=4" alt="ML &amp; DevOps" /></td>
     </tr>
   </table>
 </div>
+
+---
 
 ### 📊 `system_metrics.log`
 
@@ -104,5 +104,3 @@
 </div>
 
 <!-- Engineered for a top 1% GitHub profile experience -->
-
-</div>
