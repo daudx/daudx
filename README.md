@@ -78,14 +78,20 @@
 
 <div align="center">
   <a href="https://github.com/daudx">
-    <img src="https://github-readme-stats.vercel.app/api?username=daudx&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=ffffff" width="48%" alt="Dawood's GitHub Stats" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daudx&theme=tokyonight" width="48%" alt="Dawood's GitHub Stats" />
   </a>
   <a href="https://github.com/daudx">
-    <img src="https://streak-stats.demolab.com/?user=daudx&theme=transparent&hide_border=true&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&currStreakNum=ffffff&sideLabels=ffffff&sideNums=ffffff&dates=ffffff" width="48%" alt="Dawood's Streak Stats" />
+    <img src="https://streak-stats.demolab.com/?user=daudx&theme=tokyonight&hide_border=true&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&currStreakNum=ffffff&sideLabels=ffffff&sideNums=ffffff&dates=ffffff" width="48%" alt="Dawood's Streak Stats" />
   </a>
   <br><br>
   <a href="https://github.com/daudx">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daudx&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=ffffff" width="50%" alt="Dawood's Top Languages" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daudx&theme=tokyonight" width="32%" alt="Dawood's Top Languages" />
+  </a>
+  <a href="https://github.com/daudx">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daudx&theme=tokyonight" width="32%" alt="Dawood's Most Used Languages" />
+  </a>
+  <a href="https://github.com/daudx">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daudx&theme=tokyonight" width="32%" alt="Dawood's Productive Time" />
   </a>
 </div>
 
