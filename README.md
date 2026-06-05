@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=250&section=header&text=Hi%20👋,%20I'm%20Dawood%20Sajid&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=A%20Skilled%20Frontend%20and%20AI/ML%20Developer%20from%20Pakistan&descAlignY=55" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=250&section=header&text=Hi%20👋,%20I'm%20Dawood%20Sajid&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Full-Stack%20%7C%20AI%2FML%20Developer%20from%20Pakistan&descAlignY=55" alt="Header Banner" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=%3E_++Frontend+%26+AI%2FML+Developer;%3E_++Turning+coffee+into+scalable+code;%3E_++Building+AI-integrated+web+applications" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=%3E_+Full-Stack+%26+AI%2FML+Developer;%3E_+Turning+coffee+into+scalable+code;%3E_+Building+AI-integrated+web+applications" alt="Typing SVG" />
   </a>
 
   <br><br>
@@ -60,7 +60,7 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="33%"><b>🚀 Frontend</b></td>
+      <td align="center" width="33%"><b>🚀 Full-Stack</b></td>
       <td align="center" width="33%"><b>⚙️ Backend</b></td>
       <td align="center" width="33%"><b>🤖 AI &amp; DevOps</b></td>
     </tr>
@@ -81,7 +81,7 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daudx&theme=tokyonight" width="48%" alt="Dawood's GitHub Stats" />
   </a>
   <a href="https://github.com/daudx">
-    <img src="https://streak-stats.demolab.com/?user=daudx&theme=tokyonight&hide_border=true&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&currStreakNum=ffffff&sideLabels=ffffff&sideNums=ffffff&dates=ffffff" width="48%" alt="Dawood's Streak Stats" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daudx&theme=tokyonight" width="48%" alt="Dawood's Streak Stats" />
   </a>
   <br><br>
   <a href="https://github.com/daudx">
